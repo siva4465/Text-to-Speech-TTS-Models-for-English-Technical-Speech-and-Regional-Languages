@@ -1,7 +1,5 @@
 # Text to Speech TTS Models for English Technical Speech and Regional Languages
 
-
-
 ------------------------------------------------------------------------------------------------------------------
 # TTS Fine-tuning for Technical Vocabulary
 
@@ -118,7 +116,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Open-source TTS community
 
 -------------------------------------------------------------------------------------------------------------------------
-
 
 # Regional Language TTS Fine-tuning Project
 
